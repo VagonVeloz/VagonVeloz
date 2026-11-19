@@ -1,9 +1,5 @@
 # Hola, soy Kevin Oscar González 👋
 
-Analista en Sistemas y desarrollador de software. Me especializo en construir aplicaciones web completas: desde la extracción de datos hasta la base de datos y la interfaz de usuario.
-
----
-
 ## 🚀 TechSearch — Proyecto Final
 
 **Comparador de precios de tecnología** que recorre en tiempo real las tiendas argentinas **Mobihogar, Dorazi, ElectroMisiones y Habitar**, y reúne todos sus productos en un solo lugar.
